@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Android_Shortcut_sample</string>
+    <string name="app_name">Android Shortcut</string>
+    <string name="shortcut_disabled_message">Shortcut Disabled</string>
+    <!-- Long label should be <= 25 characters-->
+    <string name="shortcut_long_label">Второй экран</string>
+    <!-- Short label should be <= 10 characters-->
+    <string name="shortcut_short_label">Второй</string>
 </resources>
