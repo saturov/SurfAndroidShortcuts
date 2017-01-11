@@ -3,7 +3,7 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
-.DS_Storeзаб
+.DS_Store
 /build
 /captures
 
@@ -11,12 +11,4 @@
 .idea/*
 # But keep dictionaries to have less false positives in spellcheck inspection.
 !.idea/dictionaries
-.gitignore
 .idea/
-app/
-build.gradle
-gradle.properties
-gradle/
-gradlew
-gradlew.bat
-settings.gradle
